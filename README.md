@@ -1,4 +1,4 @@
-# Hi there, I'm Fazal Ur Rehman Cheema 👋
+# Hi there, I'm Fazal Ur Rehman 👋
 
 I am a Computer Science student at Beaconhouse National University, focused on building scalable backend architectures, training machine learning models, and optimizing DevOps pipelines. I enjoy bridging the gap between low-level system mechanics and high-level intelligent applications.
 
